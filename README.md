@@ -69,7 +69,7 @@ The app will open at `http://localhost:8501`.
 
 ### *👩‍💻 Author*
 *Warda Ejaz*
- AI Freelancer Program | 2026
+ Teradata Internship Program | 2026
  wardaejaz039@gmail.com
 
 *License*: This project is licensed under the MIT License.
